@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DSNihali
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning BCA & data science.
+- 🌱 I’m currently learning data science. and am BCA graduate.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 229namratachawla@gmail.com .
 
